@@ -17,13 +17,14 @@ The notebook is designed as a simple example for learning and experimenting with
 ## How to Run
 
 1. Clone or download this repository.
-2. Open `github2.ipynb` in [Google Colab](https://colab.research.google.com/).
+2. Open `salesdash.ipynb` in [Google Colab](https://colab.research.google.com/).
 3. Run each cell sequentially.
 4. Modify the notebook to explore with your own data!
 
 ## Dependencies
 
 - pandas
+- altair
 - matplotlib
 - seaborn
 - scikit-learn
